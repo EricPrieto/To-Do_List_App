@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: rgb(119, 219, 241);
+}
+
+h1{
+    margin: 0px auto 50px;
+    text-align: center;
+}
+
+.app{
+    max-width: 300px;
+    margin: 10px auto 0px;
+    background-color: white;
+    border: 5px solid #1d5add;
+    border-radius: 50px 10px;
+}
